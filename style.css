@@ -1,0 +1,9 @@
+h1, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    width: 100px;
+    cursor: pointer;
+}
