@@ -15,7 +15,7 @@ function lampOff() {
     }
 }
 function lampBroken(){
-    lamp.src='img/quebrada.jpeg';
+    lamp.src='img/quebrada.jpg';
 }
 turnOn.addEventListener('click',  lampOn); 
 turnOff.addEventListener('click',  lampOff);
